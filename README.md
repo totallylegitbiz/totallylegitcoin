@@ -1,29 +1,29 @@
-Legitcoin integration/staging tree
+TotallyLegitCoin integration/staging tree
 ================================
 
 http://www.coingen.io
 
 Copyright (c) 2009-2013 Bitcoin Developers
 
-What is Legitcoin?
+What is TotallyLegitCoin?
 ----------------
 
-Legitcoin is an experimental new digital currency that enables instant payments to
-anyone, anywhere in the world. Legitcoin uses peer-to-peer technology to operate
+TotallyLegitCoin is an experimental new digital currency that enables instant payments to
+anyone, anywhere in the world. TotallyLegitCoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Legitcoin is also the name of the open source
+out collectively by the network. TotallyLegitCoin is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Legitcoin client software, see http://www.coingen.io.
+the TotallyLegitCoin client software, see http://www.coingen.io.
 
 License
 -------
 
-Legitcoin is released under the terms of the MIT license. See `COPYING` for more
+TotallyLegitCoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
-Legitcoin is based on Bitcoin.
+TotallyLegitCoin is based on Bitcoin.
 Its development tracks Bitcoin's, the following information applies to Bitcoin's developemnt.
 Development process
 -------------------

@@ -25,7 +25,7 @@ release time)
 
 - Additional debug.log logging for diagnosis of network problems, log timestamps by default
 
-- Fix Legitcoin-Qt startup crash when clicking dock icon on OSX 
+- Fix TotallyLegitCoin-Qt startup crash when clicking dock icon on OSX 
 
 - Fix memory leaks in CKey::SetCompactSignature() and Key::SignCompact()
 

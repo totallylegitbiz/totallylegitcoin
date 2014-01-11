@@ -1,4 +1,4 @@
-Legitcoin-Qt: Qt4 GUI for Bitcoin
+TotallyLegitCoin-Qt: Qt4 GUI for Bitcoin
 ===============================
 
 Build instructions

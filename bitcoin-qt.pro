@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = legitcoin-qt
-macx:TARGET = "Legitcoin-Qt"
+TARGET = totallylegitcoin-qt
+macx:TARGET = "TotallyLegitCoin-Qt"
 VERSION = 0.8.6
 INCLUDEPATH += src src/json src/qt
 QT += network
@@ -309,7 +309,7 @@ SOURCES += src/qt/test/test_main.cpp \
 HEADERS += src/qt/test/uritests.h
 DEPENDPATH += src/qt/test
 QT += testlib
-TARGET = legitcoin-qt_test
+TARGET = totallylegitcoin-qt_test
 DEFINES += BITCOIN_QT_TEST
   macx: CONFIG -= app_bundle
 }

@@ -19,9 +19,9 @@ public:
      */
     enum Unit
     {
-        LGT,
-        mLGT,
-        uLGT
+        TLC,
+        mTLC,
+        uTLC
     };
 
     //! @name Static API

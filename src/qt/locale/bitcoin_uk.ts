@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Legitcoin</source>
-        <translation>Про Legitcoin</translation>
+        <source>About TotallyLegitCoin</source>
+        <translation>Про TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Legitcoin&lt;/b&gt; version</source>
-        <translation>Версія &lt;b&gt;Legitcoin&apos;a&lt;b&gt;</translation>
+        <source>&lt;b&gt;TotallyLegitCoin&lt;/b&gt; version</source>
+        <translation>Версія &lt;b&gt;TotallyLegitCoin&apos;a&lt;b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,7 +34,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Legitcoin developers</source>
+        <source>The TotallyLegitCoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -67,7 +67,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Legitcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your TotallyLegitCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Це ваші адреси для отримання платежів. Ви можете давати різні адреси різним людям, таким чином маючи можливість відслідкувати хто конкретно і скільки вам заплатив.</translation>
     </message>
     <message>
@@ -82,7 +82,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Legitcoin address</source>
+        <source>Sign a message to prove you own a TotallyLegitCoin address</source>
         <translation>Підпишіть повідомлення щоб довести, що ви є власником цієї адреси</translation>
     </message>
     <message>
@@ -107,8 +107,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Legitcoin address</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Legitcoin-адресою</translation>
+        <source>Verify a message to ensure it was signed with a specified TotallyLegitCoin address</source>
+        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною TotallyLegitCoin-адресою</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,7 +122,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Legitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your TotallyLegitCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -275,7 +275,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Legitcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your legitcoins from being stolen by malware infecting your computer.</source>
+        <source>TotallyLegitCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your totallylegitcoins from being stolen by malware infecting your computer.</source>
         <translation>Біткоін-клієнт буде закрито для завершення процесу шифрування. Пам&apos;ятайте, що шифрування гаманця не може повністю захистити ваші біткоіни від крадіжки, у випадку якщо ваш комп&apos;ютер буде інфіковано шкідливими програмами.</translation>
     </message>
     <message>
@@ -321,9 +321,9 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
 </context>
 <context>
-    <name>LegitcoinGUI</name>
+    <name>TotallyLegitCoinGUI</name>
     <message>
-        <location filename="../legitcoingui.cpp" line="+233"/>
+        <location filename="../totallylegitcoingui.cpp" line="+233"/>
         <source>Sign &amp;message...</source>
         <translation>&amp;Підписати повідомлення...</translation>
     </message>
@@ -374,8 +374,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Legitcoin</source>
-        <translation>Показати інформацію про Legitcoin</translation>
+        <source>Show information about TotallyLegitCoin</source>
+        <translation>Показати інформацію про TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,12 +419,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Legitcoin address</source>
+        <source>Send coins to a TotallyLegitCoin address</source>
         <translation>Відправити монети на вказану адресу</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Legitcoin</source>
+        <source>Modify configuration options for TotallyLegitCoin</source>
         <translation>Редагувати параметри</translation>
     </message>
     <message>
@@ -455,8 +455,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Legitcoin</source>
-        <translation>Legitcoin</translation>
+        <source>TotallyLegitCoin</source>
+        <translation>TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Legitcoin</source>
-        <translation>&amp;Про Legitcoin</translation>
+        <source>&amp;About TotallyLegitCoin</source>
+        <translation>&amp;Про TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Legitcoin addresses to prove you own them</source>
-        <translation>Підтвердіть, що Ви є власником повідомлення підписавши його Вашою Legitcoin-адресою </translation>
+        <source>Sign messages with your TotallyLegitCoin addresses to prove you own them</source>
+        <translation>Підтвердіть, що Ви є власником повідомлення підписавши його Вашою TotallyLegitCoin-адресою </translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Legitcoin addresses</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Legitcoin-адресою</translation>
+        <source>Verify messages to ensure they were signed with specified TotallyLegitCoin addresses</source>
+        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною TotallyLegitCoin-адресою</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,12 +536,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Legitcoin client</source>
-        <translation>Legitcoin-клієнт</translation>
+        <source>TotallyLegitCoin client</source>
+        <translation>TotallyLegitCoin-клієнт</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Legitcoin network</source>
+        <source>%n active connection(s) to TotallyLegitCoin network</source>
         <translation><numerusform>%n активне з&apos;єднання з мережею</numerusform><numerusform>%n активні з&apos;єднання з мережею</numerusform><numerusform>%n активних з&apos;єднань з мережею</numerusform></translation>
     </message>
     <message>
@@ -656,8 +656,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Legitcoin address or malformed URI parameters.</source>
-        <translation>Неможливо обробити URI! Це може бути викликано неправильною Legitcoin-адресою, чи невірними параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TotallyLegitCoin address or malformed URI parameters.</source>
+        <translation>Неможливо обробити URI! Це може бути викликано неправильною TotallyLegitCoin-адресою, чи невірними параметрами URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Address: %4
         <translation>&lt;b&gt;Зашифрований&lt;/b&gt; гаманець &lt;b&gt;заблоковано&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../legitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Legitcoin can no longer continue safely and will quit.</source>
+        <location filename="../totallylegitcoin.cpp" line="+111"/>
+        <source>A fatal error occurred. TotallyLegitCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -737,8 +737,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Legitcoin address.</source>
-        <translation>Введена адреса «%1» не є коректною адресою в мережі Legitcoin.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TotallyLegitCoin address.</source>
+        <translation>Введена адреса «%1» не є коректною адресою в мережі TotallyLegitCoin.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Legitcoin-Qt</source>
-        <translation>Legitcoin-Qt</translation>
+        <source>TotallyLegitCoin-Qt</source>
+        <translation>TotallyLegitCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,12 +819,12 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Legitcoin after logging in to the system.</source>
+        <source>Automatically start TotallyLegitCoin after logging in to the system.</source>
         <translation>Автоматично запускати гаманець при вході до системи.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Legitcoin on system login</source>
+        <source>&amp;Start TotallyLegitCoin on system login</source>
         <translation>&amp;Запускати гаманець при вході в систему</translation>
     </message>
     <message>
@@ -844,7 +844,7 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Legitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the TotallyLegitCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Автоматично відкривати порт для клієнту біткоін на роутері. Працює лише якщо ваш роутер підтримує UPnP і ця функція увімкнена.</translation>
     </message>
     <message>
@@ -854,8 +854,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Legitcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Підключатись до мережі Legitcoin через SOCKS-проксі (наприклад при використанні Tor).</translation>
+        <source>Connect to the TotallyLegitCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Підключатись до мережі TotallyLegitCoin через SOCKS-проксі (наприклад при використанні Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Legitcoin.</source>
-        <translation>Встановлює мову інтерфейсу. Зміни набудуть чинності після перезапуску Legitcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TotallyLegitCoin.</source>
+        <translation>Встановлює мову інтерфейсу. Зміни набудуть чинності після перезапуску TotallyLegitCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,7 +944,7 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Legitcoin addresses in the transaction list or not.</source>
+        <source>Whether to show TotallyLegitCoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -996,8 +996,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Legitcoin.</source>
-        <translation>Цей параметр набуде чинності після перезапуску Legitcoin.</translation>
+        <source>This setting will take effect after restarting TotallyLegitCoin.</source>
+        <translation>Цей параметр набуде чинності після перезапуску TotallyLegitCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Legitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Показана інформація вже може бути застарілою. Ваш гаманець буде автоматично синхронізовано з мережею Legitcoin після встановлення підключення, але цей процес ще не завершено.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TotallyLegitCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Показана інформація вже може бути застарілою. Ваш гаманець буде автоматично синхронізовано з мережею TotallyLegitCoin після встановлення підключення, але цей процес ще не завершено.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,7 +1069,7 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start legitcoin: click-to-pay handler</source>
+        <source>Cannot start totallylegitcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1219,8 +1219,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Legitcoin-Qt help message to get a list with possible Legitcoin command-line options.</source>
-        <translation>Показати довідку Legitcoin-Qt для отримання переліку можливих параметрів командного рядка.</translation>
+        <source>Show the TotallyLegitCoin-Qt help message to get a list with possible TotallyLegitCoin command-line options.</source>
+        <translation>Показати довідку TotallyLegitCoin-Qt для отримання переліку можливих параметрів командного рядка.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,12 +1239,12 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Legitcoin - Debug window</source>
-        <translation>Legitcoin - Вікно зневадження</translation>
+        <source>TotallyLegitCoin - Debug window</source>
+        <translation>TotallyLegitCoin - Вікно зневадження</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Legitcoin Core</source>
+        <source>TotallyLegitCoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1254,7 +1254,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Legitcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the TotallyLegitCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1264,8 +1264,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Legitcoin RPC console.</source>
-        <translation>Вітаємо у консолі Legitcoin RPC.</translation>
+        <source>Welcome to the TotallyLegitCoin RPC console.</source>
+        <translation>Вітаємо у консолі TotallyLegitCoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1319,8 +1319,8 @@ Address: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 LGT</source>
-        <translation>123.456 LGT</translation>
+        <source>123.456 TLC</source>
+        <translation>123.456 TLC</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1448,8 +1448,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Legitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Введіть адресу Legitcoin (наприклад 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a TotallyLegitCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Введіть адресу TotallyLegitCoin (наприклад 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1472,7 +1472,7 @@ Address: %4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Введіть адресу Legitcoin (наприклад 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Введіть адресу TotallyLegitCoin (наприклад 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1513,7 +1513,7 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Legitcoin address</source>
+        <source>Sign the message to prove you own this TotallyLegitCoin address</source>
         <translation>Підпишіть повідомлення щоб довести, що ви є власником цієї адреси</translation>
     </message>
     <message>
@@ -1545,12 +1545,12 @@ Address: %4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Введіть адресу Legitcoin (наприклад 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Введіть адресу TotallyLegitCoin (наприклад 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Legitcoin address</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Legitcoin-адресою</translation>
+        <source>Verify the message to ensure it was signed with the specified TotallyLegitCoin address</source>
+        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною TotallyLegitCoin-адресою</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Legitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Введіть адресу Legitcoin (наприклад 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a TotallyLegitCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Введіть адресу TotallyLegitCoin (наприклад 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Legitcoin signature</source>
-        <translation>Введіть сигнатуру Legitcoin</translation>
+        <source>Enter TotallyLegitCoin signature</source>
+        <translation>Введіть сигнатуру TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,7 +1649,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Legitcoin developers</source>
+        <source>The TotallyLegitCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2184,10 +2184,10 @@ Address: %4
     </message>
 </context>
 <context>
-    <name>legitcoin-core</name>
+    <name>totallylegitcoin-core</name>
     <message>
-        <location filename="../legitcoinstrings.cpp" line="+94"/>
-        <source>Legitcoin version</source>
+        <location filename="../totallylegitcoinstrings.cpp" line="+94"/>
+        <source>TotallyLegitCoin version</source>
         <translation>Версія</translation>
     </message>
     <message>
@@ -2197,7 +2197,7 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or legitcoind</source>
+        <source>Send command to -server or totallylegitcoind</source>
         <translation>Відправити команду серверу -server чи демону</translation>
     </message>
     <message>
@@ -2217,13 +2217,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: legitcoin.conf)</source>
-        <translation>Вкажіть файл конфігурації (типово: legitcoin.conf)</translation>
+        <source>Specify configuration file (default: totallylegitcoin.conf)</source>
+        <translation>Вкажіть файл конфігурації (типово: totallylegitcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: legitcoind.pid)</source>
-        <translation>Вкажіть pid-файл (типово: legitcoind.pid)</translation>
+        <source>Specify pid file (default: totallylegitcoind.pid)</source>
+        <translation>Вкажіть pid-файл (типово: totallylegitcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,13 +2300,13 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=legitcoinrpc
+rpcuser=totallylegitcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Legitcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TotallyLegitCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2322,7 +2322,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Legitcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Legitcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. TotallyLegitCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2367,8 +2367,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Legitcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Legitcoin will not work properly.</source>
-        <translation>Увага: будь ласка, перевірте дату і час на своєму комп&apos;ютері. Якщо ваш годинник йде неправильно, Legitcoin може працювати некоректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TotallyLegitCoin will not work properly.</source>
+        <translation>Увага: будь ласка, перевірте дату і час на своєму комп&apos;ютері. Якщо ваш годинник йде неправильно, TotallyLegitCoin може працювати некоректно.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2617,8 +2617,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Legitcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Legitcoin Wiki for SSL setup instructions)</source>
-        <translation>Параметри SSL: (див. Legitcoin Wiki для налаштування SSL)</translation>
+        <source>SSL options: (see the TotallyLegitCoin Wiki for SSL setup instructions)</source>
+        <translation>Параметри SSL: (див. TotallyLegitCoin Wiki для налаштування SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2807,12 +2807,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Legitcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Legitcoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of TotallyLegitCoin</source>
         <translation>Помилка при завантаженні wallet.dat: Гаманець потребує новішої версії Біткоін-клієнта</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Legitcoin to complete</source>
+        <source>Wallet needed to be rewritten: restart TotallyLegitCoin to complete</source>
         <translation>Потрібно перезаписати гаманець: перезапустіть Біткоін-клієнт для завершення</translation>
     </message>
     <message>
@@ -2872,7 +2872,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Legitcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Legitcoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. TotallyLegitCoin is probably already running.</source>
         <translation>Неможливо прив&apos;язати до порту %s на цьому комп&apos;ютері. Можливо гаманець вже запущено.</translation>
     </message>
     <message>

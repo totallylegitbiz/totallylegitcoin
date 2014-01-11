@@ -15,9 +15,9 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Legitcoin-Qt</string>
+	<string>TotallyLegitCoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.bitcoinfoundation.Legitcoin-Qt</string>
+	<string>org.bitcoinfoundation.TotallyLegitCoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>

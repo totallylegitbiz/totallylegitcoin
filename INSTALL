@@ -1,9 +1,9 @@
-Building Legitcoin
+Building TotallyLegitCoin
 
-See doc/readme-qt.rst for instructions on building Legitcoin-Qt,
+See doc/readme-qt.rst for instructions on building TotallyLegitCoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Legitcoin.
+implementation of TotallyLegitCoin.
 
-See doc/build-*.txt for instructions on building legitcoind,
+See doc/build-*.txt for instructions on building totallylegitcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Legitcoin.
+implementation of TotallyLegitCoin.

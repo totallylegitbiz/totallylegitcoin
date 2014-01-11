@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Legitcoin</source>
-        <translation>Informatio de Legitcoin</translation>
+        <source>About TotallyLegitCoin</source>
+        <translation>Informatio de TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Legitcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Legitcoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;TotallyLegitCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;TotallyLegitCoin&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,8 +33,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+0"/>
-        <source>The Legitcoin developers</source>
-        <translation>Legitcoin curatores</translation>
+        <source>The TotallyLegitCoin developers</source>
+        <translation>TotallyLegitCoin curatores</translation>
     </message>
 </context>
 <context>
@@ -66,8 +66,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Legitcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Haec sunt inscriptiones Legitcoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
+        <source>These are your TotallyLegitCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Haec sunt inscriptiones TotallyLegitCoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,8 +81,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Legitcoin address</source>
-        <translation>Signa nuntium ut demonstres inscriptionem Legitcoin a te possessam esse</translation>
+        <source>Sign a message to prove you own a TotallyLegitCoin address</source>
+        <translation>Signa nuntium ut demonstres inscriptionem TotallyLegitCoin a te possessam esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -106,8 +106,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Legitcoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione Legitcoin</translation>
+        <source>Verify a message to ensure it was signed with a specified TotallyLegitCoin address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Legitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your TotallyLegitCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Hae sunt inscriptiones mittendi pensitationes.  Semper inspice quantitatem et inscriptionem accipiendi antequam nummos mittis.</translation>
     </message>
     <message>
@@ -274,8 +274,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-56"/>
-        <source>Legitcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your legitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Legitcoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
+        <source>TotallyLegitCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your totallylegitcoins from being stolen by malware infecting your computer.</source>
+        <translation>TotallyLegitCoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -320,9 +320,9 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
 </context>
 <context>
-    <name>LegitcoinGUI</name>
+    <name>TotallyLegitCoinGUI</name>
     <message>
-        <location filename="../legitcoingui.cpp" line="+233"/>
+        <location filename="../totallylegitcoingui.cpp" line="+233"/>
         <source>Sign &amp;message...</source>
         <translation>Signa &amp;nuntium...</translation>
     </message>
@@ -373,8 +373,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Legitcoin</source>
-        <translation>Monstra informationem de Legitcoin</translation>
+        <source>Show information about TotallyLegitCoin</source>
+        <translation>Monstra informationem de TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,13 +418,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Legitcoin address</source>
-        <translation>Mitte nummos ad inscriptionem Legitcoin</translation>
+        <source>Send coins to a TotallyLegitCoin address</source>
+        <translation>Mitte nummos ad inscriptionem TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Legitcoin</source>
-        <translation>Muta configurationis optiones pro Legitcoin</translation>
+        <source>Modify configuration options for TotallyLegitCoin</source>
+        <translation>Muta configurationis optiones pro TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -454,8 +454,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Legitcoin</source>
-        <translation>Legitcoin</translation>
+        <source>TotallyLegitCoin</source>
+        <translation>TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Legitcoin</source>
-        <translation>&amp;Informatio de Legitcoin</translation>
+        <source>&amp;About TotallyLegitCoin</source>
+        <translation>&amp;Informatio de TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,13 +499,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Legitcoin addresses to prove you own them</source>
-        <translation>Signa nuntios cum tuis inscriptionibus Legitcoin ut demonstres te eas possidere</translation>
+        <source>Sign messages with your TotallyLegitCoin addresses to prove you own them</source>
+        <translation>Signa nuntios cum tuis inscriptionibus TotallyLegitCoin ut demonstres te eas possidere</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Legitcoin addresses</source>
-        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus Legitcoin</translation>
+        <source>Verify messages to ensure they were signed with specified TotallyLegitCoin addresses</source>
+        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -535,13 +535,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+47"/>
-        <source>Legitcoin client</source>
-        <translation>Legitcoin cliens</translation>
+        <source>TotallyLegitCoin client</source>
+        <translation>TotallyLegitCoin cliens</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Legitcoin network</source>
-        <translation><numerusform>%n activa conexio ad rete Legitcoin</numerusform><numerusform>%n activae conexiones ad rete Legitcoin</numerusform></translation>
+        <source>%n active connection(s) to TotallyLegitCoin network</source>
+        <translation><numerusform>%n activa conexio ad rete TotallyLegitCoin</numerusform><numerusform>%n activae conexiones ad rete TotallyLegitCoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Inscriptio: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Legitcoin address or malformed URI parameters.</source>
-        <translation>URI intellegi non posse!  Huius causa possit inscriptionem Legitcoin non validam aut URI parametra maleformata.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TotallyLegitCoin address or malformed URI parameters.</source>
+        <translation>URI intellegi non posse!  Huius causa possit inscriptionem TotallyLegitCoin non validam aut URI parametra maleformata.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -669,9 +669,9 @@ Inscriptio: %4
         <translation>Cassidile &lt;b&gt;cifratum&lt;/b&gt; est et iam nunc &lt;b&gt;seratum&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../legitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Legitcoin can no longer continue safely and will quit.</source>
-        <translation>Error fatalis accidit.  Legitcoin nondum pergere tute potest, et exibit.</translation>
+        <location filename="../totallylegitcoin.cpp" line="+111"/>
+        <source>A fatal error occurred. TotallyLegitCoin can no longer continue safely and will quit.</source>
+        <translation>Error fatalis accidit.  TotallyLegitCoin nondum pergere tute potest, et exibit.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Legitcoin address.</source>
-        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio Legitcoin est.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TotallyLegitCoin address.</source>
+        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio TotallyLegitCoin est.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Inscriptio: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Legitcoin-Qt</source>
-        <translation>Legitcoin-Qt</translation>
+        <source>TotallyLegitCoin-Qt</source>
+        <translation>TotallyLegitCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Legitcoin after logging in to the system.</source>
-        <translation>Pelle Legitcoin per se postquam in systema inire.</translation>
+        <source>Automatically start TotallyLegitCoin after logging in to the system.</source>
+        <translation>Pelle TotallyLegitCoin per se postquam in systema inire.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Legitcoin on system login</source>
-        <translation>&amp;Pelle Legitcoin cum inire systema</translation>
+        <source>&amp;Start TotallyLegitCoin on system login</source>
+        <translation>&amp;Pelle TotallyLegitCoin cum inire systema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Legitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aperi per se portam clientis Legitcoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
+        <source>Automatically open the TotallyLegitCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aperi per se portam clientis TotallyLegitCoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Legitcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecte ad rete Legitcoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
+        <source>Connect to the TotallyLegitCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecte ad rete TotallyLegitCoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Legitcoin.</source>
-        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam Legitcoin iterum initiatum erit.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TotallyLegitCoin.</source>
+        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam TotallyLegitCoin iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Legitcoin addresses in the transaction list or not.</source>
-        <translation>Num monstrare inscriptiones Legitcoin in enumeratione transactionum.</translation>
+        <source>Whether to show TotallyLegitCoin addresses in the transaction list or not.</source>
+        <translation>Num monstrare inscriptiones TotallyLegitCoin in enumeratione transactionum.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Inscriptio: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Legitcoin.</source>
-        <translation>Haec configuratio effectiva erit postquam Legitcoin iterum initiatum erit.</translation>
+        <source>This setting will take effect after restarting TotallyLegitCoin.</source>
+        <translation>Haec configuratio effectiva erit postquam TotallyLegitCoin iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,8 +1014,8 @@ Inscriptio: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Legitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete Legitcoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TotallyLegitCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete TotallyLegitCoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1068,8 +1068,8 @@ Inscriptio: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start legitcoin: click-to-pay handler</source>
-        <translation>Legitcoin incipere non potest: cliccare-ad-pensandum handler</translation>
+        <source>Cannot start totallylegitcoin: click-to-pay handler</source>
+        <translation>TotallyLegitCoin incipere non potest: cliccare-ad-pensandum handler</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Legitcoin-Qt help message to get a list with possible Legitcoin command-line options.</source>
-        <translation>Monstra nuntium auxilii Legitcoin-Qt ut videas enumerationem possibilium optionum Legitcoin mandati initiantis.</translation>
+        <source>Show the TotallyLegitCoin-Qt help message to get a list with possible TotallyLegitCoin command-line options.</source>
+        <translation>Monstra nuntium auxilii TotallyLegitCoin-Qt ut videas enumerationem possibilium optionum TotallyLegitCoin mandati initiantis.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Legitcoin - Debug window</source>
-        <translation>Legitcoin - Fenestra debug</translation>
+        <source>TotallyLegitCoin - Debug window</source>
+        <translation>TotallyLegitCoin - Fenestra debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Legitcoin Core</source>
-        <translation>Legitcoin Nucleus</translation>
+        <source>TotallyLegitCoin Core</source>
+        <translation>TotallyLegitCoin Nucleus</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Legitcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Aperi plicam catalogi de Legitcoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
+        <source>Open the TotallyLegitCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Aperi plicam catalogi de TotallyLegitCoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Legitcoin RPC console.</source>
-        <translation>Bene ventio in terminale RPC de Legitcoin.</translation>
+        <source>Welcome to the TotallyLegitCoin RPC console.</source>
+        <translation>Bene ventio in terminale RPC de TotallyLegitCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1318,8 +1318,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 LGT</source>
-        <translation>123.456 LGT</translation>
+        <source>123.456 TLC</source>
+        <translation>123.456 TLC</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1447,8 +1447,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Legitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Insero inscriptionem Legitcoin (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a TotallyLegitCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Insero inscriptionem TotallyLegitCoin (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Legitcoin address</source>
-        <translation>Signa nuntium ut demonstres hanc inscriptionem Legitcoin a te possessa esse</translation>
+        <source>Sign the message to prove you own this TotallyLegitCoin address</source>
+        <translation>Signa nuntium ut demonstres hanc inscriptionem TotallyLegitCoin a te possessa esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Legitcoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione Legitcoin</translation>
+        <source>Verify the message to ensure it was signed with the specified TotallyLegitCoin address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Inscriptio: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Legitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Insere inscriptionem Legitcoin (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a TotallyLegitCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Insere inscriptionem TotallyLegitCoin (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Legitcoin signature</source>
-        <translation>Insere signationem Legitcoin</translation>
+        <source>Enter TotallyLegitCoin signature</source>
+        <translation>Insere signationem TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,8 +1648,8 @@ Inscriptio: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Legitcoin developers</source>
-        <translation>Legitcoin curatores</translation>
+        <source>The TotallyLegitCoin developers</source>
+        <translation>TotallyLegitCoin curatores</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2183,11 +2183,11 @@ Inscriptio: %4
     </message>
 </context>
 <context>
-    <name>legitcoin-core</name>
+    <name>totallylegitcoin-core</name>
     <message>
-        <location filename="../legitcoinstrings.cpp" line="+94"/>
-        <source>Legitcoin version</source>
-        <translation>Versio de Legitcoin</translation>
+        <location filename="../totallylegitcoinstrings.cpp" line="+94"/>
+        <source>TotallyLegitCoin version</source>
+        <translation>Versio de TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or legitcoind</source>
-        <translation>Mitte mandatum ad -server vel legitcoind</translation>
+        <source>Send command to -server or totallylegitcoind</source>
+        <translation>Mitte mandatum ad -server vel totallylegitcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: legitcoin.conf)</source>
-        <translation>Specifica configurationis plicam (praedefinitum: legitcoin.conf)</translation>
+        <source>Specify configuration file (default: totallylegitcoin.conf)</source>
+        <translation>Specifica configurationis plicam (praedefinitum: totallylegitcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: legitcoind.pid)</source>
-        <translation>Specifica pid plicam (praedefinitum: legitcoin.pid)</translation>
+        <source>Specify pid file (default: totallylegitcoind.pid)</source>
+        <translation>Specifica pid plicam (praedefinitum: totallylegitcoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Inscriptio: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=legitcoinrpc
+rpcuser=totallylegitcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Legitcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TotallyLegitCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, necesse est te rpcpassword constituere in plica configurationis:
 %s
 Hortatur te hanc fortuitam tesseram uti:
-rpcuser=legitcoinrpc
+rpcuser=totallylegitcoinrpc
 rpcpassword=%s
 (non est necesse te hanc tesseram meminisse)
 Nomen usoris et tessera eadem esse NON POSSUNT.
 Si plica non existit, eam crea cum permissionibus ut eius dominus tantum sinitur id legere.
 Quoque hortatur alertnotify constituere ut tu notificetur de problematibus;
-exempli gratia: alertnotify=echo %%s | mail -s &quot;Legitcoin Notificatio&quot; admin@foo.com
+exempli gratia: alertnotify=echo %%s | mail -s &quot;TotallyLegitCoin Notificatio&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Legitcoin Notificatio&quot;
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Legitcoin is probably already running.</source>
-        <translation>Non posse serare datorum indicem %s.  Legitcoin probabiliter iam operatur.</translation>
+        <source>Cannot obtain a lock on data directory %s. TotallyLegitCoin is probably already running.</source>
+        <translation>Non posse serare datorum indicem %s.  TotallyLegitCoin probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Legitcoin Notificatio&quot;
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Legitcoin will not work properly.</source>
-        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, Legitcoin non proprie fungetur.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TotallyLegitCoin will not work properly.</source>
+        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, TotallyLegitCoin non proprie fungetur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Legitcoin Notificatio&quot;
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Legitcoin Wiki for SSL setup instructions)</source>
-        <translation>Optiones SSL: (vide vici de Legitcoin pro instructionibus SSL configurationis)</translation>
+        <source>SSL options: (see the TotallyLegitCoin Wiki for SSL setup instructions)</source>
+        <translation>Optiones SSL: (vide vici de TotallyLegitCoin pro instructionibus SSL configurationis)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Legitcoin Notificatio&quot;
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Legitcoin</source>
-        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio Legitcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TotallyLegitCoin</source>
+        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Legitcoin to complete</source>
-        <translation>Cassidili necesse erat rescribi: Repelle Legitcoin ut compleas</translation>
+        <source>Wallet needed to be rewritten: restart TotallyLegitCoin to complete</source>
+        <translation>Cassidili necesse erat rescribi: Repelle TotallyLegitCoin ut compleas</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Legitcoin Notificatio&quot;
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Legitcoin is probably already running.</source>
-        <translation>Non posse conglutinare ad %s in hoc cumputatro.  Legitcoin probabiliter iam operatur.</translation>
+        <source>Unable to bind to %s on this computer. TotallyLegitCoin is probably already running.</source>
+        <translation>Non posse conglutinare ad %s in hoc cumputatro.  TotallyLegitCoin probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+64"/>

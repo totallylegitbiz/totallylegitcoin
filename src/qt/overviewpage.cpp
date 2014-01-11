@@ -20,7 +20,7 @@ class TxViewDelegate : public QAbstractItemDelegate
 {
     Q_OBJECT
 public:
-    TxViewDelegate(): QAbstractItemDelegate(), unit(BitcoinUnits::LGT)
+    TxViewDelegate(): QAbstractItemDelegate(), unit(BitcoinUnits::TLC)
     {
 
     }
@@ -182,7 +182,7 @@ void OverviewPage::setWalletModel(WalletModel *model)
         connect(model->getOptionsModel(), SIGNAL(displayUnitChanged(int)), this, SLOT(updateDisplayUnit()));
     }
 
-    // update the display unit, to not use the default ("LGT")
+    // update the display unit, to not use the default ("TLC")
     updateDisplayUnit();
 }
 

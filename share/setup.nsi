@@ -1,4 +1,4 @@
-Name Legitcoin
+Name TotallyLegitCoin
 
 RequestExecutionLevel highest
 SetCompressor /SOLID lzma
@@ -6,11 +6,11 @@ SetCompressor /SOLID lzma
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION 0.8.6
-!define COMPANY "Legitcoin project"
+!define COMPANY "TotallyLegitCoin project"
 !define URL http://www.coingen.io/
 
 # MUI Symbol Definitions
-!define MUI_ICON "../share/pixmaps/legitcoin.ico"
+!define MUI_ICON "../share/pixmaps/totallylegitcoin.ico"
 !define MUI_WELCOMEFINISHPAGE_BITMAP "../share/pixmaps/nsis-wizard.bmp"
 !define MUI_HEADERIMAGE
 !define MUI_HEADERIMAGE_RIGHT
@@ -19,8 +19,8 @@ SetCompressor /SOLID lzma
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
 !define MUI_STARTMENUPAGE_REGISTRY_VALUENAME StartMenuGroup
-!define MUI_STARTMENUPAGE_DEFAULTFOLDER Legitcoin
-!define MUI_FINISHPAGE_RUN $INSTDIR\legitcoin-qt.exe
+!define MUI_STARTMENUPAGE_DEFAULTFOLDER TotallyLegitCoin
+!define MUI_FINISHPAGE_RUN $INSTDIR\totallylegitcoin-qt.exe
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
 !define MUI_UNWELCOMEFINISHPAGE_BITMAP "../share/pixmaps/nsis-wizard.bmp"
 !define MUI_UNFINISHPAGE_NOAUTOCLOSE
@@ -45,14 +45,14 @@ Var StartMenuGroup
 !insertmacro MUI_LANGUAGE English
 
 # Installer attributes
-OutFile legitcoin-0.8.6-win32-setup.exe
-InstallDir $PROGRAMFILES\Legitcoin
+OutFile totallylegitcoin-0.8.6-win32-setup.exe
+InstallDir $PROGRAMFILES\TotallyLegitCoin
 CRCCheck on
 XPStyle on
 BrandingText " "
 ShowInstDetails show
 VIProductVersion 0.8.6.0
-VIAddVersionKey ProductName Legitcoin
+VIAddVersionKey ProductName TotallyLegitCoin
 VIAddVersionKey ProductVersion "${VERSION}"
 VIAddVersionKey CompanyName "${COMPANY}"
 VIAddVersionKey CompanyWebsite "${URL}"
@@ -66,18 +66,18 @@ ShowUninstDetails show
 Section -Main SEC0000
     SetOutPath $INSTDIR
     SetOverwrite on
-    File ../release/legitcoin-qt.exe
+    File ../release/totallylegitcoin-qt.exe
     File /oname=COPYING.txt ../COPYING
     File /oname=readme.txt ../doc/README_windows.txt
     SetOutPath $INSTDIR\daemon
-    File ../src/legitcoind.exe
+    File ../src/totallylegitcoind.exe
     SetOutPath $INSTDIR\src
     File /r /x *.exe /x *.o ../src\*.*
     SetOutPath $INSTDIR
     WriteRegStr HKCU "${REGKEY}\Components" Main 1
 
-    # Remove old wxwidgets-based-legitcoin executable and locales:
-    Delete /REBOOTOK $INSTDIR\legitcoin.exe
+    # Remove old wxwidgets-based-totallylegitcoin executable and locales:
+    Delete /REBOOTOK $INSTDIR\totallylegitcoin.exe
     RMDir /r /REBOOTOK $INSTDIR\locale
 SectionEnd
 
@@ -87,8 +87,8 @@ Section -post SEC0001
     WriteUninstaller $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_BEGIN Application
     CreateDirectory $SMPROGRAMS\$StartMenuGroup
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Legitcoin.lnk" $INSTDIR\legitcoin-qt.exe
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall Legitcoin.lnk" $INSTDIR\uninstall.exe
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\TotallyLegitCoin.lnk" $INSTDIR\totallylegitcoin-qt.exe
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall TotallyLegitCoin.lnk" $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_END
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayName "$(^Name)"
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayVersion "${VERSION}"
@@ -98,10 +98,10 @@ Section -post SEC0001
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" UninstallString $INSTDIR\uninstall.exe
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoModify 1
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoRepair 1
-    WriteRegStr HKCR "legitcoin" "URL Protocol" ""
-    WriteRegStr HKCR "legitcoin" "" "URL:Legitcoin"
-    WriteRegStr HKCR "legitcoin\DefaultIcon" "" $INSTDIR\legitcoin-qt.exe
-    WriteRegStr HKCR "legitcoin\shell\open\command" "" '"$INSTDIR\legitcoin-qt.exe" "%1"'
+    WriteRegStr HKCR "totallylegitcoin" "URL Protocol" ""
+    WriteRegStr HKCR "totallylegitcoin" "" "URL:TotallyLegitCoin"
+    WriteRegStr HKCR "totallylegitcoin\DefaultIcon" "" $INSTDIR\totallylegitcoin-qt.exe
+    WriteRegStr HKCR "totallylegitcoin\shell\open\command" "" '"$INSTDIR\totallylegitcoin-qt.exe" "%1"'
 SectionEnd
 
 # Macro for selecting uninstaller sections
@@ -119,7 +119,7 @@ done${UNSECTION_ID}:
 
 # Uninstaller sections
 Section /o -un.Main UNSEC0000
-    Delete /REBOOTOK $INSTDIR\legitcoin-qt.exe
+    Delete /REBOOTOK $INSTDIR\totallylegitcoin-qt.exe
     Delete /REBOOTOK $INSTDIR\COPYING.txt
     Delete /REBOOTOK $INSTDIR\readme.txt
     RMDir /r /REBOOTOK $INSTDIR\daemon
@@ -129,9 +129,9 @@ SectionEnd
 
 Section -un.post UNSEC0001
     DeleteRegKey HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)"
-    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall Legitcoin.lnk"
-    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Legitcoin.lnk"
-    Delete /REBOOTOK "$SMSTARTUP\Legitcoin.lnk"
+    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall TotallyLegitCoin.lnk"
+    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\TotallyLegitCoin.lnk"
+    Delete /REBOOTOK "$SMSTARTUP\TotallyLegitCoin.lnk"
     Delete /REBOOTOK $INSTDIR\uninstall.exe
     Delete /REBOOTOK $INSTDIR\debug.log
     Delete /REBOOTOK $INSTDIR\db.log
@@ -139,7 +139,7 @@ Section -un.post UNSEC0001
     DeleteRegValue HKCU "${REGKEY}" Path
     DeleteRegKey /IfEmpty HKCU "${REGKEY}\Components"
     DeleteRegKey /IfEmpty HKCU "${REGKEY}"
-    DeleteRegKey HKCR "legitcoin"
+    DeleteRegKey HKCR "totallylegitcoin"
     RmDir /REBOOTOK $SMPROGRAMS\$StartMenuGroup
     RmDir /REBOOTOK $INSTDIR
     Push $R0

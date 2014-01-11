@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Legitcoin</source>
-        <translation>À propos de Legitcoin</translation>
+        <source>About TotallyLegitCoin</source>
+        <translation>À propos de TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Legitcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Legitcoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;TotallyLegitCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;TotallyLegitCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Legitcoin developers</source>
-        <translation>Les développeurs Legitcoin</translation>
+        <source>The TotallyLegitCoin developers</source>
+        <translation>Les développeurs TotallyLegitCoin</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Legitcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Voici vos adresses Legitcoin qui vous permettent de recevoir des paiements. Vous pouvez donner une adresse différente à chaque expéditeur afin de savoir qui vous paye.</translation>
+        <source>These are your TotallyLegitCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Voici vos adresses TotallyLegitCoin qui vous permettent de recevoir des paiements. Vous pouvez donner une adresse différente à chaque expéditeur afin de savoir qui vous paye.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Legitcoin address</source>
-        <translation>Signer un message pour prouver que vous détenez une adresse Legitcoin</translation>
+        <source>Sign a message to prove you own a TotallyLegitCoin address</source>
+        <translation>Signer un message pour prouver que vous détenez une adresse TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Legitcoin address</source>
-        <translation>Vérifier un message pour vous assurer qu&apos;il a bien été signé avec l&apos;adresse Legitcoin spécifiée</translation>
+        <source>Verify a message to ensure it was signed with a specified TotallyLegitCoin address</source>
+        <translation>Vérifier un message pour vous assurer qu&apos;il a bien été signé avec l&apos;adresse TotallyLegitCoin spécifiée</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Legitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ce sont vos adresses Legitcoin pour émettre des paiements. Vérifiez toujours le montant et l&apos;adresse du destinataire avant d&apos;envoyer des pièces.</translation>
+        <source>These are your TotallyLegitCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ce sont vos adresses TotallyLegitCoin pour émettre des paiements. Vérifiez toujours le montant et l&apos;adresse du destinataire avant d&apos;envoyer des pièces.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Legitcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your legitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Legitcoin va à présent se fermer pour terminer la procédure de cryptage. N&apos;oubliez pas que le chiffrement de votre porte-monnaie ne peut pas fournir une protection totale contre le vol par des logiciels malveillants qui infecteraient votre ordinateur.</translation>
+        <source>TotallyLegitCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your totallylegitcoins from being stolen by malware infecting your computer.</source>
+        <translation>TotallyLegitCoin va à présent se fermer pour terminer la procédure de cryptage. N&apos;oubliez pas que le chiffrement de votre porte-monnaie ne peut pas fournir une protection totale contre le vol par des logiciels malveillants qui infecteraient votre ordinateur.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -321,9 +321,9 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
 </context>
 <context>
-    <name>LegitcoinGUI</name>
+    <name>TotallyLegitCoinGUI</name>
     <message>
-        <location filename="../legitcoingui.cpp" line="+233"/>
+        <location filename="../totallylegitcoingui.cpp" line="+233"/>
         <source>Sign &amp;message...</source>
         <translation>Signer un &amp;message...</translation>
     </message>
@@ -374,8 +374,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Legitcoin</source>
-        <translation>Afficher des informations à propos de Legitcoin</translation>
+        <source>Show information about TotallyLegitCoin</source>
+        <translation>Afficher des informations à propos de TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Legitcoin address</source>
-        <translation>Envoyer des pièces à une adresse Legitcoin</translation>
+        <source>Send coins to a TotallyLegitCoin address</source>
+        <translation>Envoyer des pièces à une adresse TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Legitcoin</source>
-        <translation>Modifier les options de configuration de Legitcoin</translation>
+        <source>Modify configuration options for TotallyLegitCoin</source>
+        <translation>Modifier les options de configuration de TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Legitcoin</source>
-        <translation>Legitcoin</translation>
+        <source>TotallyLegitCoin</source>
+        <translation>TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Legitcoin</source>
-        <translation>À &amp;propos de Legitcoin</translation>
+        <source>&amp;About TotallyLegitCoin</source>
+        <translation>À &amp;propos de TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Legitcoin addresses to prove you own them</source>
-        <translation>Signer les messages avec vos adresses Legitcoin pour prouver que vous les détenez</translation>
+        <source>Sign messages with your TotallyLegitCoin addresses to prove you own them</source>
+        <translation>Signer les messages avec vos adresses TotallyLegitCoin pour prouver que vous les détenez</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Legitcoin addresses</source>
-        <translation>Vérifier les messages pour vous assurer qu&apos;ils ont bien été signés avec les adresses Legitcoin spécifiées</translation>
+        <source>Verify messages to ensure they were signed with specified TotallyLegitCoin addresses</source>
+        <translation>Vérifier les messages pour vous assurer qu&apos;ils ont bien été signés avec les adresses TotallyLegitCoin spécifiées</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Legitcoin client</source>
-        <translation>Client Legitcoin</translation>
+        <source>TotallyLegitCoin client</source>
+        <translation>Client TotallyLegitCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Legitcoin network</source>
-        <translation><numerusform>%n connexion active avec le réseau Legitcoin</numerusform><numerusform>%n connexions actives avec le réseau Legitcoin</numerusform></translation>
+        <source>%n active connection(s) to TotallyLegitCoin network</source>
+        <translation><numerusform>%n connexion active avec le réseau TotallyLegitCoin</numerusform><numerusform>%n connexions actives avec le réseau TotallyLegitCoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adresse : %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Legitcoin address or malformed URI parameters.</source>
-        <translation>L&apos;URI ne peut être analysé ! Cela peut être causé par une adresse Legitcoin invalide ou par des paramètres d&apos;URI malformés.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TotallyLegitCoin address or malformed URI parameters.</source>
+        <translation>L&apos;URI ne peut être analysé ! Cela peut être causé par une adresse TotallyLegitCoin invalide ou par des paramètres d&apos;URI malformés.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,9 +670,9 @@ Adresse : %4
         <translation>Le porte-monnaie est &lt;b&gt;chiffré&lt;/b&gt; et est actuellement &lt;b&gt;verrouillé&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../legitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Legitcoin can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale est survenue. Legitcoin ne peut plus continuer à fonctionner de façon sûre et va s&apos;arrêter.</translation>
+        <location filename="../totallylegitcoin.cpp" line="+111"/>
+        <source>A fatal error occurred. TotallyLegitCoin can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale est survenue. TotallyLegitCoin ne peut plus continuer à fonctionner de façon sûre et va s&apos;arrêter.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adresse : %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Legitcoin address.</source>
-        <translation>L&apos;adresse fournie « %1 » n&apos;est pas une adresse Legitcoin valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TotallyLegitCoin address.</source>
+        <translation>L&apos;adresse fournie « %1 » n&apos;est pas une adresse TotallyLegitCoin valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adresse : %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Legitcoin-Qt</source>
-        <translation>Legitcoin-Qt</translation>
+        <source>TotallyLegitCoin-Qt</source>
+        <translation>TotallyLegitCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adresse : %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Legitcoin after logging in to the system.</source>
-        <translation>Démarrer Legitcoin automatiquement lors de l&apos;ouverture une session sur l&apos;ordinateur.</translation>
+        <source>Automatically start TotallyLegitCoin after logging in to the system.</source>
+        <translation>Démarrer TotallyLegitCoin automatiquement lors de l&apos;ouverture une session sur l&apos;ordinateur.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Legitcoin on system login</source>
-        <translation>&amp;Démarrer Legitcoin lors de l&apos;ouverture d&apos;une session</translation>
+        <source>&amp;Start TotallyLegitCoin on system login</source>
+        <translation>&amp;Démarrer TotallyLegitCoin lors de l&apos;ouverture d&apos;une session</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Adresse : %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Legitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir le port du client Legitcoin automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l&apos;UPnP et si la fonctionnalité est activée.</translation>
+        <source>Automatically open the TotallyLegitCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir le port du client TotallyLegitCoin automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l&apos;UPnP et si la fonctionnalité est activée.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Adresse : %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Legitcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connexion au réseau Legitcoin à travers un proxy SOCKS (par ex. lors d&apos;une connexion via Tor).</translation>
+        <source>Connect to the TotallyLegitCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connexion au réseau TotallyLegitCoin à travers un proxy SOCKS (par ex. lors d&apos;une connexion via Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adresse : %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Legitcoin.</source>
-        <translation>La langue de l&apos;interface utilisateur peut être définie ici. Ce réglage sera pris en compte après redémarrage de Legitcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TotallyLegitCoin.</source>
+        <translation>La langue de l&apos;interface utilisateur peut être définie ici. Ce réglage sera pris en compte après redémarrage de TotallyLegitCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Adresse : %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Legitcoin addresses in the transaction list or not.</source>
-        <translation>Détermine si les adresses Legitcoin seront affichées sur la liste des transactions.</translation>
+        <source>Whether to show TotallyLegitCoin addresses in the transaction list or not.</source>
+        <translation>Détermine si les adresses TotallyLegitCoin seront affichées sur la liste des transactions.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adresse : %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Legitcoin.</source>
-        <translation>Ce réglage sera pris en compte après un redémarrage de Legitcoin.</translation>
+        <source>This setting will take effect after restarting TotallyLegitCoin.</source>
+        <translation>Ce réglage sera pris en compte après un redémarrage de TotallyLegitCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adresse : %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Legitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre porte-monnaie est automatiquement synchronisé avec le réseau Legitcoin lorsque la connexion s&apos;établit, or ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TotallyLegitCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre porte-monnaie est automatiquement synchronisé avec le réseau TotallyLegitCoin lorsque la connexion s&apos;établit, or ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1069,8 @@ Adresse : %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start legitcoin: click-to-pay handler</source>
-        <translation>Impossible de démarrer legitcoin : gestionnaire de cliquer-pour-payer</translation>
+        <source>Cannot start totallylegitcoin: click-to-pay handler</source>
+        <translation>Impossible de démarrer totallylegitcoin : gestionnaire de cliquer-pour-payer</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adresse : %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Legitcoin-Qt help message to get a list with possible Legitcoin command-line options.</source>
-        <translation>Afficher le message d&apos;aide de Legitcoin-Qt pour obtenir la liste des options de ligne de commande disponibles pour Legitcoin.</translation>
+        <source>Show the TotallyLegitCoin-Qt help message to get a list with possible TotallyLegitCoin command-line options.</source>
+        <translation>Afficher le message d&apos;aide de TotallyLegitCoin-Qt pour obtenir la liste des options de ligne de commande disponibles pour TotallyLegitCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adresse : %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Legitcoin - Debug window</source>
-        <translation>Legitcoin - Fenêtre de débogage</translation>
+        <source>TotallyLegitCoin - Debug window</source>
+        <translation>TotallyLegitCoin - Fenêtre de débogage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Legitcoin Core</source>
-        <translation>Noyau Legitcoin</translation>
+        <source>TotallyLegitCoin Core</source>
+        <translation>Noyau TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adresse : %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Legitcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le journal de débogage de Legitcoin depuis le répertoire de données actuel. Cela peut prendre quelques secondes pour les journaux de grande taille.</translation>
+        <source>Open the TotallyLegitCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le journal de débogage de TotallyLegitCoin depuis le répertoire de données actuel. Cela peut prendre quelques secondes pour les journaux de grande taille.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Legitcoin RPC console.</source>
-        <translation>Bienvenue sur la console RPC de Legitcoin.</translation>
+        <source>Welcome to the TotallyLegitCoin RPC console.</source>
+        <translation>Bienvenue sur la console RPC de TotallyLegitCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1319,8 +1319,8 @@ Adresse : %4
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 LGT</source>
-        <translation>123.456 LGT</translation>
+        <source>123.456 TLC</source>
+        <translation>123.456 TLC</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1448,8 +1448,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Legitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Entrez une adresse Legitcoin (par ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a TotallyLegitCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Entrez une adresse TotallyLegitCoin (par ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Adresse : %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Legitcoin address</source>
-        <translation>Signer le message pour prouver que vous détenez cette adresse Legitcoin</translation>
+        <source>Sign the message to prove you own this TotallyLegitCoin address</source>
+        <translation>Signer le message pour prouver que vous détenez cette adresse TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Adresse : %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Legitcoin address</source>
-        <translation>Vérifier le message pour vous assurer qu&apos;il a bien été signé par l&apos;adresse Legitcoin spécifiée</translation>
+        <source>Verify the message to ensure it was signed with the specified TotallyLegitCoin address</source>
+        <translation>Vérifier le message pour vous assurer qu&apos;il a bien été signé par l&apos;adresse TotallyLegitCoin spécifiée</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adresse : %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Legitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Entrez une adresse Legitcoin (par ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a TotallyLegitCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Entrez une adresse TotallyLegitCoin (par ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adresse : %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Legitcoin signature</source>
-        <translation>Entrer une signature Legitcoin</translation>
+        <source>Enter TotallyLegitCoin signature</source>
+        <translation>Entrer une signature TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adresse : %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Legitcoin developers</source>
-        <translation>Les développeurs Legitcoin</translation>
+        <source>The TotallyLegitCoin developers</source>
+        <translation>Les développeurs TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2184,11 +2184,11 @@ Adresse : %4
     </message>
 </context>
 <context>
-    <name>legitcoin-core</name>
+    <name>totallylegitcoin-core</name>
     <message>
-        <location filename="../legitcoinstrings.cpp" line="+94"/>
-        <source>Legitcoin version</source>
-        <translation>Version de Legitcoin</translation>
+        <location filename="../totallylegitcoinstrings.cpp" line="+94"/>
+        <source>TotallyLegitCoin version</source>
+        <translation>Version de TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Adresse : %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or legitcoind</source>
-        <translation>Envoyer une commande à -server ou à legitcoind</translation>
+        <source>Send command to -server or totallylegitcoind</source>
+        <translation>Envoyer une commande à -server ou à totallylegitcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Adresse : %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: legitcoin.conf)</source>
-        <translation>Spécifier le fichier de configuration (par défaut : legitcoin.conf)</translation>
+        <source>Specify configuration file (default: totallylegitcoin.conf)</source>
+        <translation>Spécifier le fichier de configuration (par défaut : totallylegitcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: legitcoind.pid)</source>
-        <translation>Spécifier le fichier PID (par défaut : legitcoind.pid)</translation>
+        <source>Specify pid file (default: totallylegitcoind.pid)</source>
+        <translation>Spécifier le fichier PID (par défaut : totallylegitcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,24 +2300,24 @@ Adresse : %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=legitcoinrpc
+rpcuser=totallylegitcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Legitcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TotallyLegitCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, vous devez définir un mot de passe rpc dans le fichier de configuration : 
 %s
 Il vous est conseillé d&apos;utiliser le mot de passe aléatoire suivant :
-rpcuser=legitcoinrpc
+rpcuser=totallylegitcoinrpc
 rpcpassword=%s
 (vous n&apos;avez pas besoin de retenir ce mot de passe)
 Le nom d&apos;utilisateur et le mot de passe NE DOIVENT PAS être identiques.
 Si le fichier n&apos;existe pas, créez-le avec les droits de lecture accordés au propriétaire.
 Il est aussi conseillé de régler alertnotify pour être prévenu des problèmes ;
-par exemple : alertnotify=echo %%s | mail -s &quot;Legitcoin Alert&quot; admin@foo.com
+par exemple : alertnotify=echo %%s | mail -s &quot;TotallyLegitCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ par exemple : alertnotify=echo %%s | mail -s &quot;Legitcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Legitcoin is probably already running.</source>
-        <translation>Impossible d’obtenir un verrou sur le répertoire de données %s. Legitcoin fonctionne probablement déjà.</translation>
+        <source>Cannot obtain a lock on data directory %s. TotallyLegitCoin is probably already running.</source>
+        <translation>Impossible d’obtenir un verrou sur le répertoire de données %s. TotallyLegitCoin fonctionne probablement déjà.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ par exemple : alertnotify=echo %%s | mail -s &quot;Legitcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Legitcoin will not work properly.</source>
-        <translation>Attention : veuillez vérifier que l&apos;heure et la date de votre ordinateur sont correctes ! Si votre horloge n&apos;est pas à l&apos;heure, Legitcoin ne fonctionnera pas correctement.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TotallyLegitCoin will not work properly.</source>
+        <translation>Attention : veuillez vérifier que l&apos;heure et la date de votre ordinateur sont correctes ! Si votre horloge n&apos;est pas à l&apos;heure, TotallyLegitCoin ne fonctionnera pas correctement.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ par exemple : alertnotify=echo %%s | mail -s &quot;Legitcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Legitcoin Wiki for SSL setup instructions)</source>
-        <translation>Options SSL : (cf. le wiki de Legitcoin pour les instructions de configuration du SSL)</translation>
+        <source>SSL options: (see the TotallyLegitCoin Wiki for SSL setup instructions)</source>
+        <translation>Options SSL : (cf. le wiki de TotallyLegitCoin pour les instructions de configuration du SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ par exemple : alertnotify=echo %%s | mail -s &quot;Legitcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Legitcoin</source>
-        <translation>Erreur lors du chargement de wallet.dat : le porte-monnaie nécessite une version plus récente de Legitcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TotallyLegitCoin</source>
+        <translation>Erreur lors du chargement de wallet.dat : le porte-monnaie nécessite une version plus récente de TotallyLegitCoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Legitcoin to complete</source>
-        <translation>Le porte-monnaie nécessitait une réécriture : veuillez redémarrer Legitcoin pour terminer l&apos;opération</translation>
+        <source>Wallet needed to be rewritten: restart TotallyLegitCoin to complete</source>
+        <translation>Le porte-monnaie nécessitait une réécriture : veuillez redémarrer TotallyLegitCoin pour terminer l&apos;opération</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ par exemple : alertnotify=echo %%s | mail -s &quot;Legitcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Legitcoin is probably already running.</source>
-        <translation>Impossible de se lier à %s sur cet ordinateur. Legitcoin fonctionne probablement déjà.</translation>
+        <source>Unable to bind to %s on this computer. TotallyLegitCoin is probably already running.</source>
+        <translation>Impossible de se lier à %s sur cet ordinateur. TotallyLegitCoin fonctionne probablement déjà.</translation>
     </message>
     <message>
         <location line="+64"/>

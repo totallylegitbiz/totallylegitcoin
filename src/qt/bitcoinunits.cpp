@@ -11,9 +11,9 @@ BitcoinUnits::BitcoinUnits(QObject *parent):
 QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits()
 {
     QList<BitcoinUnits::Unit> unitlist;
-    unitlist.append(LGT);
-    unitlist.append(mLGT);
-    unitlist.append(uLGT);
+    unitlist.append(TLC);
+    unitlist.append(mTLC);
+    unitlist.append(uTLC);
     return unitlist;
 }
 
@@ -21,9 +21,9 @@ bool BitcoinUnits::valid(int unit)
 {
     switch(unit)
     {
-    case LGT:
-    case mLGT:
-    case uLGT:
+    case TLC:
+    case mTLC:
+    case uTLC:
         return true;
     default:
         return false;
@@ -34,9 +34,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case LGT: return QString("LGT");
-    case mLGT: return QString("mLGT");
-    case uLGT: return QString::fromUtf8("μLGT");
+    case TLC: return QString("TLC");
+    case mTLC: return QString("mTLC");
+    case uTLC: return QString::fromUtf8("μTLC");
     default: return QString("???");
     }
 }
@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case LGT: return QString("Legitcoins");
-    case mLGT: return QString("Milli-Legitcoins (1 / 1,000)");
-    case uLGT: return QString("Micro-Legitcoins (1 / 1,000,000)");
+    case TLC: return QString("TotallyLegitCoins");
+    case mTLC: return QString("Milli-TotallyLegitCoins (1 / 1,000)");
+    case uTLC: return QString("Micro-TotallyLegitCoins (1 / 1,000,000)");
     default: return QString("???");
     }
 }
@@ -56,9 +56,9 @@ qint64 BitcoinUnits::factor(int unit)
 {
     switch(unit)
     {
-    case LGT:  return 100000000;
-    case mLGT: return 100000;
-    case uLGT: return 100;
+    case TLC:  return 100000000;
+    case mTLC: return 100000;
+    case uTLC: return 100;
     default:   return 100000000;
     }
 }
@@ -67,9 +67,9 @@ int BitcoinUnits::amountDigits(int unit)
 {
     switch(unit)
     {
-    case LGT: return 8; // 21,000,000 (# digits, without commas)
-    case mLGT: return 11; // 21,000,000,000
-    case uLGT: return 14; // 21,000,000,000,000
+    case TLC: return 8; // 21,000,000 (# digits, without commas)
+    case mTLC: return 11; // 21,000,000,000
+    case uTLC: return 14; // 21,000,000,000,000
     default: return 0;
     }
 }
@@ -78,9 +78,9 @@ int BitcoinUnits::decimals(int unit)
 {
     switch(unit)
     {
-    case LGT: return 8;
-    case mLGT: return 5;
-    case uLGT: return 2;
+    case TLC: return 8;
+    case mTLC: return 5;
+    case uTLC: return 2;
     default: return 0;
     }
 }
